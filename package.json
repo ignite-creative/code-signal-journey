@@ -1,0 +1,8 @@
+{
+  "name": "code-signal-journey",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "http://github.com/meta-dev-org/code-signal-journey",
+  "author": "prodevcn <cn.corestar@gmail.com>",
+  "license": "MIT"
+}
